@@ -6,7 +6,7 @@ They want to test how well you can handle basic input, numeric operations, Boole
 The company gives you the following requirements:
 
 1. The system must ask the user for three separate pieces of information:
-a user name
+a username
 
 a numeric access code
 
