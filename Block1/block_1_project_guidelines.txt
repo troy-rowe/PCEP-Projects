@@ -1,0 +1,71 @@
+PCEP Block 1 Project Scenario (Developer‑Level Thinking)
+
+You are hired by a small security company to create a console‑based access verification prototype.
+They want to test how well you can handle basic input, numeric operations, Boolean logic, and Python fundamentals.
+
+The company gives you the following requirements:
+
+1. The system must ask the user for three separate pieces of information:
+a user name
+
+a numeric access code
+
+a secondary numeric value used for internal validation
+
+The company does not specify the format of these values — you must decide how to interpret them.
+
+2. The system must internally convert at least one of the numeric values using a different numeral system
+Binary, octal, or hexadecimal — your choice.
+The converted value must be used in a real calculation or comparison.
+
+3. The system must perform at least one calculation using numeric operators
+Any combination of:
+
+The result must influence the program’s logic.
+
+4. The system must use at least one Boolean expression to determine access
+This must involve:
+
+relational operators
+
+Boolean operators (and, or, not)
+
+at least one variable created from user input
+
+The Boolean expression must decide whether access is granted or denied.
+
+5. The system must print different messages depending on the Boolean result
+You must use:
+
+print()
+
+sep= or end= at least once
+
+at least one f‑string or concatenation using +
+
+6. The system must demonstrate awareness of floating‑point accuracy
+You must include at least one floating‑point value in your logic and handle it in a way that shows you understand how Python treats floats.
+
+7. The system must include at least one comment explaining a design choice
+Not what the code does, but why you chose to do something a certain way.
+
+8. The system must follow PEP‑8 naming conventions
+Variable names, spacing, indentation — all must be clean and consistent.
+
+9. The system must raise an exception if the user enters a specific “forbidden” name
+You choose the name.
+You choose the exception type.
+You choose the message.
+
+This is to test your understanding of Python’s logic and structure.
+
+10. The system must end by printing a summary of the values the user entered and the internal values you computed
+This forces you to think about:
+
+data types
+
+casting
+
+formatting
+
+output structure
