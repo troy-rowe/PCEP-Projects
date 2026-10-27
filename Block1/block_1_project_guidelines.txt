@@ -19,7 +19,6 @@ Binary, octal, or hexadecimal — your choice.
 The converted value must be used in a real calculation or comparison.
 
 3. The system must perform at least one calculation using numeric operators
-Any combination of:
 
 The result must influence the program’s logic.
 
